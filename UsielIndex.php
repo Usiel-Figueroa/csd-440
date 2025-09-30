@@ -67,6 +67,8 @@
             <li><a href="UsielPopulateTable.php">Populate Table</a></li>
             <li><a href="UsielQueryTable.php">Query Table</a></li>
             <li><a href="UsielDropTable.php">Drop Table</a></li>
+            <li><a href="UsielManage.php">Manage Table</a></li>
+            <li><a href="UsielPDF_link.php">Generate PDF</a></li>
         </ul>
     </div>
 </body>
